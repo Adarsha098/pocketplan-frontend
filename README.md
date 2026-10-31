@@ -70,6 +70,8 @@ The deployed application has been tested for:
 ## Screenshots
 Screenshots of the dashboard, transaction form, spending breakdown, and transaction history will be added here.
 
+![PocketPlan Dashboard](IMG_20261031_210753.jpg)
+
 ## Conclusion
 PocketPlan is a practical project for learning frontend development, backend APIs, database integration, authentication, and deployment.
 
